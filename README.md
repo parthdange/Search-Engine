@@ -1,4 +1,4 @@
-An end to end strategy to make a Medicine Search Engine using Elastic Search from scratch in Python.
+An solution to make a full Search Engine using Elastic Search from scratch in Python.
 The following things were done mainly-
 1.Web Scraping
 2.Stored the scraped data into Redis and MongoDB
